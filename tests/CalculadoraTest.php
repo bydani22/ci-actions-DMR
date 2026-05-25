@@ -12,9 +12,7 @@ class CalculadoraTest extends TestCase {
     }
 
     public function testSuma(): void {
-        $this->assertSame(99git add tests/CalculadoraTest.php
-git commit -m "Provocant error al CI"
-git push, $this->calc->suma(2, 3));
+        $this->assertSame(5, $this->calc->suma(2, 3));
     }
 
     public function testResta(): void {
