@@ -1,0 +1,1 @@
+{"version":2,"defects":[],"times":{"App\\Tests\\CalculadoraTest::testSuma":0.016,"App\\Tests\\CalculadoraTest::testResta":0,"App\\Tests\\CalculadoraTest::testDivideix":0.002,"App\\Tests\\CalculadoraTest::testDivideixPerZero":0.002}}
