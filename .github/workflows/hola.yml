@@ -1,0 +1,11 @@
+name: Hola Actions DMR
+
+on:
+  workflow_dispatch:
+
+jobs:
+  salutacio:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Missatge de benvinguda
+        run: echo "Hola, GitHub Actions! Soc DMR"
